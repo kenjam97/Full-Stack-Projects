@@ -1,4 +1,4 @@
-#Show Me The Faces
+# Show Me The Faces
 
 A small application that allows a user to enter an image link for the Clarifai API to identify a face.
 
